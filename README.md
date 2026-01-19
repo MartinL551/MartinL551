@@ -1,7 +1,12 @@
-Graduate from the University of Portsmouth. Have used skills in React and Node.js to deploy web applications using Google web services. Further experience includes using project management tools such as Jira and DevOps in a team environment. 
+## 👋 Hi, I’m Martin
 
-For third year my modules included Robotics, Scalable Software Engineering, Engineering Science and Neural Networks. 
+I’m a **Software Engineering graduate and Full Stack Developer** with professional experience building and maintaining production web applications. My background is primarily in **PHP and JavaScript**, working across backend and frontend systems with SQL databases, and frameworks such as **Laravel** and **Vue**.
 
-For my dissertation I have created a customisable and configurable vehicle web interface for Raspberry Pi, with the goal that it can be used as an educational or hobbyist tool. I have used React and Node.js in this project.
+I enjoy working on real-world systems — extending existing codebases, improving reliability, and delivering features that align with actual user and business needs. I’m comfortable navigating both legacy and modern stacks, collaborating in agile teams, and learning new technologies where they add value.
 
-My future goals include improving my skillset with an aim of becoming a full stack developer in the near future.
+Alongside my professional work, I maintain personal projects focused on:
+- full-stack web development  
+- game-related systems and simulations  
+- strengthening core software engineering fundamentals  
+
+I value clean, maintainable code, clear communication, and continuous improvement. I am currently **based in Germany** and open to **full-stack or backend-focused roles** in collaborative, product-driven teams.
